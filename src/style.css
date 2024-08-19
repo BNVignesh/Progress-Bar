@@ -1,0 +1,25 @@
+body{
+    height: 645px;
+    margin:20px;
+    background-image: linear-gradient(45deg,green,yellow);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.buttons{
+    
+    margin: auto;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap:5px
+}
+.buttons button{
+    height: 40px;
+    width: 150px;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
